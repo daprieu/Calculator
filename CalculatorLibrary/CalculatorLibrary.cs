@@ -4,10 +4,7 @@ using Newtonsoft.Json;
 
 namespace CalculatorLibrary
 {
-    public class CalculatorLibrary
-    {
 
-    }
     public class Calculator
     {
         JsonWriter writer;
